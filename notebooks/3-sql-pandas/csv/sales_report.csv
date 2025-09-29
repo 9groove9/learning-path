@@ -1,0 +1,7 @@
+category,total_revenue,source,product_name,revenue,region
+Electronics,370.0,categories,N/A,N/A,N/A
+N/A,N/A,products,Laptop,90.0,N/A
+N/A,N/A,products,Phone,60.0,N/A
+N/A,N/A,products,Tablet,75.0,N/A
+N/A,N/A,products,Laptop,65.0,N/A
+N/A,220.0,regions,N/A,N/A,South

@@ -1,0 +1,11 @@
+,SaleID,Date,ProductID,Quantity,Revenue,ProductName,Category,Price
+0,1,2025-03-01,101,2,2000,Laptop,Electronics,1000
+1,2,2025-03-01,103,4,600,Chair,Furniture,150
+2,3,2025-03-02,102,3,1800,Phone,Electronics,600
+3,4,2025-03-03,105,5,600,Headphones,Electronics,120
+4,5,2025-03-03,104,1,300,Table,Furniture,300
+5,6,2025-03-04,101,1,1000,Laptop,Electronics,1000
+6,7,2025-03-04,102,2,1200,Phone,Electronics,600
+7,8,2025-03-05,105,3,360,Headphones,Electronics,120
+8,9,2025-03-06,103,2,300,Chair,Furniture,150
+9,10,2025-03-07,104,2,600,Table,Furniture,300

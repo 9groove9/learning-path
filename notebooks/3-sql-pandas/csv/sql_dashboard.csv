@@ -1,0 +1,15 @@
+product_name,total_revenue,category,region,date
+Laptop,205.0,N/A,N/A,N/A
+Phone,90.0,N/A,N/A,N/A
+Tablet,75.0,N/A,N/A,N/A
+N/A,20.0,Accessories,N/A,N/A
+N/A,370.0,Electronics,N/A,N/A
+N/A,40.0,Fashion,N/A,N/A
+N/A,80.0,N/A,East,2025-09-01
+N/A,135.0,N/A,East,2025-09-03
+N/A,80.0,N/A,North,2025-09-01
+N/A,130.0,N/A,North,2025-09-02
+N/A,135.0,N/A,South,2025-09-03
+N/A,85.0,N/A,South,2025-09-04
+N/A,130.0,N/A,West,2025-09-02
+N/A,85.0,N/A,West,2025-09-04
